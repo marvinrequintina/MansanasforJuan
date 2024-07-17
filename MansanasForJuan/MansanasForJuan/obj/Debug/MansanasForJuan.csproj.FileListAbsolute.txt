@@ -1,0 +1,23 @@
+C:\Users\James RyzenX\source\repos\MP - IT111L\MansanasForJuan\MansanasForJuan\bin\Debug\MansanasForJuan.exe.config
+C:\Users\James RyzenX\source\repos\MP - IT111L\MansanasForJuan\MansanasForJuan\bin\Debug\MansanasForJuan.exe
+C:\Users\James RyzenX\source\repos\MP - IT111L\MansanasForJuan\MansanasForJuan\bin\Debug\MansanasForJuan.pdb
+C:\Users\James RyzenX\source\repos\MP - IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.csproj.CoreCompileInputs.cache
+C:\Users\James RyzenX\source\repos\MP - IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.exe
+C:\Users\James RyzenX\source\repos\MP - IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.pdb
+C:\Users\James RyzenX\source\repos\MP - IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.csproj.AssemblyReference.cache
+C:\Users\James RyzenX\source\repos\Group3_A54_1T111L\MansanasForJuan\MansanasForJuan\bin\Debug\MansanasForJuan.exe
+C:\Users\James RyzenX\source\repos\Group3_A54_1T111L\MansanasForJuan\MansanasForJuan\bin\Debug\MansanasForJuan.pdb
+C:\Users\James RyzenX\source\repos\Group3_A54_1T111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.csproj.AssemblyReference.cache
+C:\Users\James RyzenX\source\repos\Group3_A54_1T111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.csproj.CoreCompileInputs.cache
+C:\Users\James RyzenX\source\repos\Group3_A54_1T111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.exe
+C:\Users\James RyzenX\source\repos\Group3_A54_1T111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.pdb
+C:\Users\James RyzenX\source\repos\Group3_A54_1T111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.Properties.Resources.resources
+C:\Users\James RyzenX\source\repos\Group3_A54_1T111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.csproj.GenerateResource.cache
+C:\Users\James RyzenX\source\repos\Group3_A54_IT111L\MansanasForJuan\MansanasForJuan\bin\Debug\MansanasForJuan.exe
+C:\Users\James RyzenX\source\repos\Group3_A54_IT111L\MansanasForJuan\MansanasForJuan\bin\Debug\MansanasForJuan.pdb
+C:\Users\James RyzenX\source\repos\Group3_A54_IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.csproj.AssemblyReference.cache
+C:\Users\James RyzenX\source\repos\Group3_A54_IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.Properties.Resources.resources
+C:\Users\James RyzenX\source\repos\Group3_A54_IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.csproj.GenerateResource.cache
+C:\Users\James RyzenX\source\repos\Group3_A54_IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.csproj.CoreCompileInputs.cache
+C:\Users\James RyzenX\source\repos\Group3_A54_IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.exe
+C:\Users\James RyzenX\source\repos\Group3_A54_IT111L\MansanasForJuan\MansanasForJuan\obj\Debug\MansanasForJuan.pdb
